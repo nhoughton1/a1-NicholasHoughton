@@ -82,13 +82,16 @@ Note the highest grade you can receive is a 100%.
 Sample Readme (delete the above when you're ready to submit, and modify the text below with your links and descriptions)
 ---
 
-Charlie Roberts
-http://a1-charlieroberts.onrender.com
+Nicholas Houghton
+https://a1-nicholashoughton.onrender.com
 
-This project shows ...
+This project shows my name, major, and my prior CS courses taken at WPI, along with my proficiency in certain technologies 
 
 ## Technical Achievements
-- **Styled page with CSS**: Added rules for the p, li, and a selectors...
-
+- **Styled page with CSS**: 
+- Added rules to body section: (1) text-align: center to center the elements, (2) background-color: #A8ACB8 from adobe color wheel, and (3) color:#4D5778 to color the main text from the adobe color wheel. 
+- Added rules to li section: (4) border: 2px solid #B8B3A7 to make a border around the list items, and color from the color wheel, (5) width: fit-content to make the border just around the text, (6) padding: 5px to allow for space between border and text, (7) margin: auto so it would be centered 
+- Added rules to h1 & h2: (8) font-family: "Montserrat", sans-serif from google fonts, (9) text-decoration: underline to underline heading, and (10) font-weight: bold to bold headings. Lastly used different colors for h1 and h2 to use adobe color wheel (color: #091538 and color: #635637)
 ## Design Achievements
-- **Used the Roboto Font from Google Fonts**: I used Roboto as the font for the primary copy text in my site.
+- **Used the Montserrat Font from Google Fonts**: I used Montserrat as the font for the primary copy text in my site
+- **Used Adobe Color Wheel**: Used these colors from the adobe color wheel, you can see my color wheel in the repo under the name ColorPalette.png: #A8ACB8; #4D5778; #B8B3A7; #091538; #635637;
